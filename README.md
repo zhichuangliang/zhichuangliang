@@ -20,8 +20,8 @@ Welcome! You are my NO.![Visitor Count](https://profile-counter.glitch.me/zhichu
 
 To find out more about me, please visit my personal homepage: https://zhichuangliang.github.io
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
-
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhichuangliang&theme=default)
+
 ![Zhichuang Liang's github stats](https://github-readme-stats.vercel.app/api?username=zhichuangliang&show_icons=true&theme=default)
 -->
