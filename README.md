@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Welcome! You are my NO.![Visitor Count](https://profile-counter.glitch.me/zhichuangliang/count.svg) visitor. Thank You! 🎉🎉
 
-To find out more about me, please visit my personal homepage: [zhichuangliang.github.io](https://zhichuangliang.github.io) ⚡⚡⚡
+To find out more about me, please visit my personal homepage: [zhichuangliang.github.io](https://zhichuangliang.github.io). ⚡⚡⚡
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhichuangliang&theme=default)
