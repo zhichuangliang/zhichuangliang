@@ -10,12 +10,12 @@
 <!-- 动态数学公式 -->
 <img src="https://latex.codecogs.com/svg.image?\Large&space;e^{i\pi}&space;+&space;1&space;=&space;0" alt="Euler's Identity" />
 
-<p><i>Euler's Identity — The most beautiful equation in mathematics</i></p>
+<p><i>Euler's Identity — The most beautiful equation in the world.</i></p>
 
 <br>
 
-<!-- 敲代码动画 -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding" />
+<!-- 0,1 数字雨动画 -->
+<img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="400" alt="Matrix Digital Rain" />
 
 <br><br>
 
@@ -23,11 +23,6 @@
 <img src="https://profile-counter.glitch.me/zhichuangliang/count.svg" alt="Visitors" />
 
 <br><br>
-
-<!-- AI机器人动画 -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d6MHBqY3RlMzJqbGJ0Z3RtN3E0ZjN1a3VubXZtYnE5Z3Ewb3hmYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2A1FfLl4WE8xu1KeQ4/giphy.gif" width="200" alt="AI Bot" />
-
-<br>
 
 ## Connect with me
 
@@ -41,5 +36,5 @@
 
 <!-- 简洁页脚 -->
 <p align="center">
-  <i>"Universe through mathematics." 🔐</i>
+  <i>"Universe through mathematics." </i>
 </p>
