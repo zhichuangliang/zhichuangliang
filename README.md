@@ -1,27 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**zhichuangliang/zhichuangliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 简洁打字标题 -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Diky;Welcome!" alt="Typing" />
+</a>
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 动态数学公式 -->
+<img src="https://latex.codecogs.com/svg.image?\Large&space;e^{i\pi}&space;+&space;1&space;=&space;0" alt="Euler's Identity" />
 
+<p><i>Euler's Identity — The most beautiful equation in mathematics</i></p>
 
-Welcome! You are my NO.![Visitor Count](https://profile-counter.glitch.me/zhichuangliang/count.svg) visitor. Thank You! 🎉🎉
+<br>
 
-To find out more about me, please visit my personal homepage: [zhichuangliang.github.io](https://zhichuangliang.github.io). ⚡⚡⚡
+<!-- 敲代码动画 -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding" />
 
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhichuangliang&theme=default)
+<br><br>
 
-![Zhichuang Liang's github stats](https://github-readme-stats.vercel.app/api?username=zhichuangliang&show_icons=true&theme=default)
--->
+<!-- 访客统计 - 保留原有 -->
+<img src="https://profile-counter.glitch.me/zhichuangliang/count.svg" alt="Visitors" />
+
+<br><br>
+
+<!-- AI机器人动画 -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d6MHBqY3RlMzJqbGJ0Z3RtN3E0ZjN1a3VubXZtYnE5Z3Ewb3hmYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2A1FfLl4WE8xu1KeQ4/giphy.gif" width="200" alt="AI Bot" />
+
+<br>
+
+## Connect with me
+
+<a href="https://zhichuangliang.github.io">
+  <img src="https://img.shields.io/badge/🌐_个人主页-zhichuangliang.github.io-2E8B57?style=flat-square" alt="Homepage" />
+</a>
+
+</div>
+
+---
+
+<!-- 简洁页脚 -->
+<p align="center">
+  <i>"Universe through mathematics." 🔐</i>
+</p>
