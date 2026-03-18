@@ -7,17 +7,9 @@
 
 <br><br>
 
-<!-- 动态数学公式 -->
-<img src="https://latex.codecogs.com/svg.image?\Large&space;e^{i\pi}&space;+&space;1&space;=&space;0" alt="Euler's Identity" />
-
-<p><i>Euler's Identity — The most beautiful equation in the world.</i></p>
-
-<br>
-
 <!-- 访客统计 - 保留原有 -->
-<img src="https://profile-counter.glitch.me/zhichuangliang/count.svg" alt="Visitors" />
+You are my NO. ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhichuangliang&count_bg=%232E8B57&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitor&edge_flat=false) visitor. Thank You! 🎉🎉
 
-<br>
 
 ## Connect with me
 
@@ -25,11 +17,12 @@
   <img src="https://img.shields.io/badge/🌐_Homepage-zhichuangliang.github.io-2E8B57?style=flat-square" alt="Homepage" />
 </a>
 
-</div>
-
+<br>
 <br>
 
-<!-- 简洁页脚 -->
-<p align="center">
-  <i>"Universe" </i>
-</p>
+<!-- 动态数学公式 -->
+<img src="https://latex.codecogs.com/svg.image?\Large&space;e^{i\pi}&space;+&space;1&space;=&space;0" alt="Euler's Identity" />
+
+<p><i>Euler's Identity</i></p>
+
+</div>
